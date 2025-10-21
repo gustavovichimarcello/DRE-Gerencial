@@ -1,0 +1,577 @@
+Ano,Mês,Conta,Categoria da Conta,Valor
+2021,Jan,Receita com Produtos,Receita Bruta,946878
+2021,Jan,Receita com Serviços,Receita Bruta,20695
+2021,Jan,Comissões,Deduções da Receita Bruta,-6628
+2021,Jan,Devoluções,Deduções da Receita Bruta,-11363
+2021,Jan,Impostos de Venda (ICMS/ISS),Deduções da Receita Bruta,-126540
+2021,Jan,Custo Variável,Custo de Mercadoria Vendida (CMV),-94688
+2021,Jan,Custo Fixo,Custo de Mercadoria Vendida (CMV),-56813
+2021,Jan,Despesas Operacionais,Custos Operacionais,-18748
+2021,Jan,Despesas Administrativas,Custos Operacionais,-9374
+2021,Jan,Outras Despesas,Custos Operacionais,-750
+2021,Jan,Impostos sob o lucro,Impostos sob o lucro e participações,-75750
+2021,Jan,Participação,Impostos sob o lucro e participações,-47344
+2021,Fev,Receita com Produtos,Receita Bruta,980000
+2021,Fev,Receita com Serviços,Receita Bruta,21000
+2021,Fev,Comissões,Deduções da Receita Bruta,-6800
+2021,Fev,Devoluções,Deduções da Receita Bruta,-11500
+2021,Fev,Impostos de Venda (ICMS/ISS),Deduções da Receita Bruta,-130000
+2021,Fev,Custo Variável,Custo de Mercadoria Vendida (CMV),-98000
+2021,Fev,Custo Fixo,Custo de Mercadoria Vendida (CMV),-56813
+2021,Fev,Despesas Operacionais,Custos Operacionais,-19500
+2021,Fev,Despesas Administrativas,Custos Operacionais,-9500
+2021,Fev,Outras Despesas,Custos Operacionais,-750
+2021,Fev,Impostos sob o lucro,Impostos sob o lucro e participações,-78000
+2021,Fev,Participação,Impostos sob o lucro e participações,-48000
+2021,Mar,Receita com Produtos,Receita Bruta,1050000
+2021,Mar,Receita com Serviços,Receita Bruta,22000
+2021,Mar,Comissões,Deduções da Receita Bruta,-7350
+2021,Mar,Devoluções,Deduções da Receita Bruta,-12000
+2021,Mar,Impostos de Venda (ICMS/ISS),Deduções da Receita Bruta,-140000
+2021,Mar,Custo Variável,Custo de Mercadoria Vendida (CMV),-105000
+2021,Mar,Custo Fixo,Custo de Mercadoria Vendida (CMV),-56813
+2021,Mar,Despesas Operacionais,Custos Operacionais,-20000
+2021,Mar,Despesas Administrativas,Custos Operacionais,-10000
+2021,Mar,Outras Despesas,Custos Operacionais,-750
+2021,Mar,Impostos sob o lucro,Impostos sob o lucro e participações,-82000
+2021,Mar,Participação,Impostos sob o lucro e participações,-50000
+2021,Abr,Receita com Produtos,Receita Bruta,950000
+2021,Abr,Receita com Serviços,Receita Bruta,21500
+2021,Abr,Comissões,Deduções da Receita Bruta,-6650
+2021,Abr,Devoluções,Deduções da Receita Bruta,-11300
+2021,Abr,Impostos de Venda (ICMS/ISS),Deduções da Receita Bruta,-128000
+2021,Abr,Custo Variável,Custo de Mercadoria Vendida (CMV),-95000
+2021,Abr,Custo Fixo,Custo de Mercadoria Vendida (CMV),-56813
+2021,Abr,Despesas Operacionais,Custos Operacionais,-19000
+2021,Abr,Despesas Administrativas,Custos Operacionais,-9400
+2021,Abr,Outras Despesas,Custos Operacionais,-750
+2021,Abr,Impostos sob o lucro,Impostos sob o lucro e participações,-76000
+2021,Abr,Participação,Impostos sob o lucro e participações,-47000
+2021,Mai,Receita com Produtos,Receita Bruta,1080000
+2021,Mai,Receita com Serviços,Receita Bruta,23000
+2021,Mai,Comissões,Deduções da Receita Bruta,-7560
+2021,Mai,Devoluções,Deduções da Receita Bruta,-12500
+2021,Mai,Impostos de Venda (ICMS/ISS),Deduções da Receita Bruta,-142000
+2021,Mai,Custo Variável,Custo de Mercadoria Vendida (CMV),-108000
+2021,Mai,Custo Fixo,Custo de Mercadoria Vendida (CMV),-56813
+2021,Mai,Despesas Operacionais,Custos Operacionais,-20500
+2021,Mai,Despesas Administrativas,Custos Operacionais,-10200
+2021,Mai,Outras Despesas,Custos Operacionais,-750
+2021,Mai,Impostos sob o lucro,Impostos sob o lucro e participações,-85000
+2021,Mai,Participação,Impostos sob o lucro e participações,-51000
+2021,Jun,Receita com Produtos,Receita Bruta,1100000
+2021,Jun,Receita com Serviços,Receita Bruta,23500
+2021,Jun,Comissões,Deduções da Receita Bruta,-7700
+2021,Jun,Devoluções,Deduções da Receita Bruta,-12800
+2021,Jun,Impostos de Venda (ICMS/ISS),Deduções da Receita Bruta,-145000
+2021,Jun,Custo Variável,Custo de Mercadoria Vendida (CMV),-110000
+2021,Jun,Custo Fixo,Custo de Mercadoria Vendida (CMV),-56813
+2021,Jun,Despesas Operacionais,Custos Operacionais,-21000
+2021,Jun,Despesas Administrativas,Custos Operacionais,-10500
+2021,Jun,Outras Despesas,Custos Operacionais,-750
+2021,Jun,Impostos sob o lucro,Impostos sob o lucro e participações,-87000
+2021,Jun,Participação,Impostos sob o lucro e participações,-52000
+2021,Jul,Receita com Produtos,Receita Bruta,1000000
+2021,Jul,Receita com Serviços,Receita Bruta,22000
+2021,Jul,Comissões,Deduções da Receita Bruta,-7000
+2021,Jul,Devoluções,Deduções da Receita Bruta,-11800
+2021,Jul,Impostos de Venda (ICMS/ISS),Deduções da Receita Bruta,-135000
+2021,Jul,Custo Variável,Custo de Mercadoria Vendida (CMV),-100000
+2021,Jul,Custo Fixo,Custo de Mercadoria Vendida (CMV),-56813
+2021,Jul,Despesas Operacionais,Custos Operacionais,-19500
+2021,Jul,Despesas Administrativas,Custos Operacionais,-9700
+2021,Jul,Outras Despesas,Custos Operacionais,-750
+2021,Jul,Impostos sob o lucro,Impostos sob o lucro e participações,-80000
+2021,Jul,Participação,Impostos sob o lucro e participações,-49000
+2021,Ago,Receita com Produtos,Receita Bruta,1150000
+2021,Ago,Receita com Serviços,Receita Bruta,24000
+2021,Ago,Comissões,Deduções da Receita Bruta,-8050
+2021,Ago,Devoluções,Deduções da Receita Bruta,-13000
+2021,Ago,Impostos de Venda (ICMS/ISS),Deduções da Receita Bruta,-150000
+2021,Ago,Custo Variável,Custo de Mercadoria Vendida (CMV),-115000
+2021,Ago,Custo Fixo,Custo de Mercadoria Vendida (CMV),-56813
+2021,Ago,Despesas Operacionais,Custos Operacionais,-21500
+2021,Ago,Despesas Administrativas,Custos Operacionais,-10800
+2021,Ago,Outras Despesas,Custos Operacionais,-750
+2021,Ago,Impostos sob o lucro,Impostos sob o lucro e participações,-90000
+2021,Ago,Participação,Impostos sob o lucro e participações,-53000
+2021,Set,Receita com Produtos,Receita Bruta,1120000
+2021,Set,Receita com Serviços,Receita Bruta,23800
+2021,Set,Comissões,Deduções da Receita Bruta,-7840
+2021,Set,Devoluções,Deduções da Receita Bruta,-12900
+2021,Set,Impostos de Venda (ICMS/ISS),Deduções da Receita Bruta,-147000
+2021,Set,Custo Variável,Custo de Mercadoria Vendida (CMV),-112000
+2021,Set,Custo Fixo,Custo de Mercadoria Vendida (CMV),-56813
+2021,Set,Despesas Operacionais,Custos Operacionais,-21200
+2021,Set,Despesas Administrativas,Custos Operacionais,-10600
+2021,Set,Outras Despesas,Custos Operacionais,-750
+2021,Set,Impostos sob o lucro,Impostos sob o lucro e participações,-88000
+2021,Set,Participação,Impostos sob o lucro e participações,-52500
+2021,Out,Receita com Produtos,Receita Bruta,1200000
+2021,Out,Receita com Serviços,Receita Bruta,25000
+2021,Out,Comissões,Deduções da Receita Bruta,-8400
+2021,Out,Devoluções,Deduções da Receita Bruta,-13500
+2021,Out,Impostos de Venda (ICMS/ISS),Deduções da Receita Bruta,-160000
+2021,Out,Custo Variável,Custo de Mercadoria Vendida (CMV),-120000
+2021,Out,Custo Fixo,Custo de Mercadoria Vendida (CMV),-56813
+2021,Out,Despesas Operacionais,Custos Operacionais,-22000
+2021,Out,Despesas Administrativas,Custos Operacionais,-11000
+2021,Out,Outras Despesas,Custos Operacionais,-750
+2021,Out,Impostos sob o lucro,Impostos sob o lucro e participações,-95000
+2021,Out,Participação,Impostos sob o lucro e participações,-55000
+2021,Nov,Receita com Produtos,Receita Bruta,1250000
+2021,Nov,Receita com Serviços,Receita Bruta,26000
+2021,Nov,Comissões,Deduções da Receita Bruta,-8750
+2021,Nov,Devoluções,Deduções da Receita Bruta,-14000
+2021,Nov,Impostos de Venda (ICMS/ISS),Deduções da Receita Bruta,-165000
+2021,Nov,Custo Variável,Custo de Mercadoria Vendida (CMV),-125000
+2021,Nov,Custo Fixo,Custo de Mercadoria Vendida (CMV),-56813
+2021,Nov,Despesas Operacionais,Custos Operacionais,-23000
+2021,Nov,Despesas Administrativas,Custos Operacionais,-11500
+2021,Nov,Outras Despesas,Custos Operacionais,-750
+2021,Nov,Impostos sob o lucro,Impostos sob o lucro e participações,-100000
+2021,Nov,Participação,Impostos sob o lucro e participações,-57000
+2021,Dez,Receita com Produtos,Receita Bruta,1350000
+2021,Dez,Receita com Serviços,Receita Bruta,28000
+2021,Dez,Comissões,Deduções da Receita Bruta,-9450
+2021,Dez,Devoluções,Deduções da Receita Bruta,-15000
+2021,Dez,Impostos de Venda (ICMS/ISS),Deduções da Receita Bruta,-180000
+2021,Dez,Custo Variável,Custo de Mercadoria Vendida (CMV),-135000
+2021,Dez,Custo Fixo,Custo de Mercadoria Vendida (CMV),-56813
+2021,Dez,Despesas Operacionais,Custos Operacionais,-24000
+2021,Dez,Despesas Administrativas,Custos Operacionais,-12000
+2021,Dez,Outras Despesas,Custos Operacionais,-750
+2021,Dez,Impostos sob o lucro,Impostos sob o lucro e participações,-105000
+2021,Dez,Participação,Impostos sob o lucro e participações,-60000
+2022,Jan,Receita com Produtos,Receita Bruta,1400000
+2022,Jan,Receita com Serviços,Receita Bruta,29000
+2022,Jan,Comissões,Deduções da Receita Bruta,-9800
+2022,Jan,Devoluções,Deduções da Receita Bruta,-15500
+2022,Jan,Impostos de Venda (ICMS/ISS),Deduções da Receita Bruta,-185000
+2022,Jan,Custo Variável,Custo de Mercadoria Vendida (CMV),-140000
+2022,Jan,Custo Fixo,Custo de Mercadoria Vendida (CMV),-60000
+2022,Jan,Despesas Operacionais,Custos Operacionais,-25000
+2022,Jan,Despesas Administrativas,Custos Operacionais,-12500
+2022,Jan,Outras Despesas,Custos Operacionais,-800
+2022,Jan,Impostos sob o lucro,Impostos sob o lucro e participações,-110000
+2022,Jan,Participação,Impostos sob o lucro e participações,-62000
+2022,Fev,Receita com Produtos,Receita Bruta,1350000
+2022,Fev,Receita com Serviços,Receita Bruta,28000
+2022,Fev,Comissões,Deduções da Receita Bruta,-9450
+2022,Fev,Devoluções,Deduções da Receita Bruta,-15000
+2022,Fev,Impostos de Venda (ICMS/ISS),Deduções da Receita Bruta,-180000
+2022,Fev,Custo Variável,Custo de Mercadoria Vendida (CMV),-135000
+2022,Fev,Custo Fixo,Custo de Mercadoria Vendida (CMV),-60000
+2022,Fev,Despesas Operacionais,Custos Operacionais,-24000
+2022,Fev,Despesas Administrativas,Custos Operacionais,-12000
+2022,Fev,Outras Despesas,Custos Operacionais,-800
+2022,Fev,Impostos sob o lucro,Impostos sob o lucro e participações,-105000
+2022,Fev,Participação,Impostos sob o lucro e participações,-60000
+2022,Mar,Receita com Produtos,Receita Bruta,1500000
+2022,Mar,Receita com Serviços,Receita Bruta,30000
+2022,Mar,Comissões,Deduções da Receita Bruta,-10500
+2022,Mar,Devoluções,Deduções da Receita Bruta,-16000
+2022,Mar,Impostos de Venda (ICMS/ISS),Deduções da Receita Bruta,-195000
+2022,Mar,Custo Variável,Custo de Mercadoria Vendida (CMV),-150000
+2022,Mar,Custo Fixo,Custo de Mercadoria Vendida (CMV),-60000
+2022,Mar,Despesas Operacionais,Custos Operacionais,-26000
+2022,Mar,Despesas Administrativas,Custos Operacionais,-13000
+2022,Mar,Outras Despesas,Custos Operacionais,-800
+2022,Mar,Impostos sob o lucro,Impostos sob o lucro e participações,-118000
+2022,Mar,Participação,Impostos sob o lucro e participações,-65000
+2022,Abr,Receita com Produtos,Receita Bruta,1450000
+2022,Abr,Receita com Serviços,Receita Bruta,29500
+2022,Abr,Comissões,Deduções da Receita Bruta,-10150
+2022,Abr,Devoluções,Deduções da Receita Bruta,-15800
+2022,Abr,Impostos de Venda (ICMS/ISS),Deduções da Receita Bruta,-190000
+2022,Abr,Custo Variável,Custo de Mercadoria Vendida (CMV),-145000
+2022,Abr,Custo Fixo,Custo de Mercadoria Vendida (CMV),-60000
+2022,Abr,Despesas Operacionais,Custos Operacionais,-25500
+2022,Abr,Despesas Administrativas,Custos Operacionais,-12700
+2022,Abr,Outras Despesas,Custos Operacionais,-800
+2022,Abr,Impostos sob o lucro,Impostos sob o lucro e participações,-114000
+2022,Abr,Participação,Impostos sob o lucro e participações,-63000
+2022,Mai,Receita com Produtos,Receita Bruta,1550000
+2022,Mai,Receita com Serviços,Receita Bruta,31000
+2022,Mai,Comissões,Deduções da Receita Bruta,-10850
+2022,Mai,Devoluções,Deduções da Receita Bruta,-16500
+2022,Mai,Impostos de Venda (ICMS/ISS),Deduções da Receita Bruta,-200000
+2022,Mai,Custo Variável,Custo de Mercadoria Vendida (CMV),-155000
+2022,Mai,Custo Fixo,Custo de Mercadoria Vendida (CMV),-60000
+2022,Mai,Despesas Operacionais,Custos Operacionais,-26500
+2022,Mai,Despesas Administrativas,Custos Operacionais,-13300
+2022,Mai,Outras Despesas,Custos Operacionais,-800
+2022,Mai,Impostos sob o lucro,Impostos sob o lucro e participações,-122000
+2022,Mai,Participação,Impostos sob o lucro e participações,-66000
+2022,Jun,Receita com Produtos,Receita Bruta,1600000
+2022,Jun,Receita com Serviços,Receita Bruta,32000
+2022,Jun,Comissões,Deduções da Receita Bruta,-11200
+2022,Jun,Devoluções,Deduções da Receita Bruta,-17000
+2022,Jun,Impostos de Venda (ICMS/ISS),Deduções da Receita Bruta,-205000
+2022,Jun,Custo Variável,Custo de Mercadoria Vendida (CMV),-160000
+2022,Jun,Custo Fixo,Custo de Mercadoria Vendida (CMV),-60000
+2022,Jun,Despesas Operacionais,Custos Operacionais,-27000
+2022,Jun,Despesas Administrativas,Custos Operacionais,-13600
+2022,Jun,Outras Despesas,Custos Operacionais,-800
+2022,Jun,Impostos sob o lucro,Impostos sob o lucro e participações,-126000
+2022,Jun,Participação,Impostos sob o lucro e participações,-67000
+2022,Jul,Receita com Produtos,Receita Bruta,1500000
+2022,Jul,Receita com Serviços,Receita Bruta,30000
+2022,Jul,Comissões,Deduções da Receita Bruta,-10500
+2022,Jul,Devoluções,Deduções da Receita Bruta,-16000
+2022,Jul,Impostos de Venda (ICMS/ISS),Deduções da Receita Bruta,-195000
+2022,Jul,Custo Variável,Custo de Mercadoria Vendida (CMV),-150000
+2022,Jul,Custo Fixo,Custo de Mercadoria Vendida (CMV),-60000
+2022,Jul,Despesas Operacionais,Custos Operacionais,-26000
+2022,Jul,Despesas Administrativas,Custos Operacionais,-13000
+2022,Jul,Outras Despesas,Custos Operacionais,-800
+2022,Jul,Impostos sob o lucro,Impostos sob o lucro e participações,-118000
+2022,Jul,Participação,Impostos sob o lucro e participações,-65000
+2022,Ago,Receita com Produtos,Receita Bruta,1650000
+2022,Ago,Receita com Serviços,Receita Bruta,33000
+2022,Ago,Comissões,Deduções da Receita Bruta,-11550
+2022,Ago,Devoluções,Deduções da Receita Bruta,-17500
+2022,Ago,Impostos de Venda (ICMS/ISS),Deduções da Receita Bruta,-210000
+2022,Ago,Custo Variável,Custo de Mercadoria Vendida (CMV),-165000
+2022,Ago,Custo Fixo,Custo de Mercadoria Vendida (CMV),-60000
+2022,Ago,Despesas Operacionais,Custos Operacionais,-27500
+2022,Ago,Despesas Administrativas,Custos Operacionais,-13900
+2022,Ago,Outras Despesas,Custos Operacionais,-800
+2022,Ago,Impostos sob o lucro,Impostos sob o lucro e participações,-130000
+2022,Ago,Participação,Impostos sob o lucro e participações,-68000
+2022,Set,Receita com Produtos,Receita Bruta,1600000
+2022,Set,Receita com Serviços,Receita Bruta,32000
+2022,Set,Comissões,Deduções da Receita Bruta,-11200
+2022,Set,Devoluções,Deduções da Receita Bruta,-17000
+2022,Set,Impostos de Venda (ICMS/ISS),Deduções da Receita Bruta,-205000
+2022,Set,Custo Variável,Custo de Mercadoria Vendida (CMV),-160000
+2022,Set,Custo Fixo,Custo de Mercadoria Vendida (CMV),-60000
+2022,Set,Despesas Operacionais,Custos Operacionais,-27000
+2022,Set,Despesas Administrativas,Custos Operacionais,-13600
+2022,Set,Outras Despesas,Custos Operacionais,-800
+2022,Set,Impostos sob o lucro,Impostos sob o lucro e participações,-126000
+2022,Set,Participação,Impostos sob o lucro e participações,-67000
+2022,Out,Receita com Produtos,Receita Bruta,1700000
+2022,Out,Receita com Serviços,Receita Bruta,34000
+2022,Out,Comissões,Deduções da Receita Bruta,-11900
+2022,Out,Devoluções,Deduções da Receita Bruta,-18000
+2022,Out,Impostos de Venda (ICMS/ISS),Deduções da Receita Bruta,-215000
+2022,Out,Custo Variável,Custo de Mercadoria Vendida (CMV),-170000
+2022,Out,Custo Fixo,Custo de Mercadoria Vendida (CMV),-60000
+2022,Out,Despesas Operacionais,Custos Operacionais,-28000
+2022,Out,Despesas Administrativas,Custos Operacionais,-14200
+2022,Out,Outras Despesas,Custos Operacionais,-800
+2022,Out,Impostos sob o lucro,Impostos sob o lucro e participações,-134000
+2022,Out,Participação,Impostos sob o lucro e participações,-69000
+2022,Nov,Receita com Produtos,Receita Bruta,1750000
+2022,Nov,Receita com Serviços,Receita Bruta,35000
+2022,Nov,Comissões,Deduções da Receita Bruta,-12250
+2022,Nov,Devoluções,Deduções da Receita Bruta,-18500
+2022,Nov,Impostos de Venda (ICMS/ISS),Deduções da Receita Bruta,-220000
+2022,Nov,Custo Variável,Custo de Mercadoria Vendida (CMV),-175000
+2022,Nov,Custo Fixo,Custo de Mercadoria Vendida (CMV),-60000
+2022,Nov,Despesas Operacionais,Custos Operacionais,-29000
+2022,Nov,Despesas Administrativas,Custos Operacionais,-14500
+2022,Nov,Outras Despesas,Custos Operacionais,-800
+2022,Nov,Impostos sob o lucro,Impostos sob o lucro e participações,-138000
+2022,Nov,Participação,Impostos sob o lucro e participações,-70000
+2022,Dez,Receita com Produtos,Receita Bruta,1850000
+2022,Dez,Receita com Serviços,Receita Bruta,37000
+2022,Dez,Comissões,Deduções da Receita Bruta,-12950
+2022,Dez,Devoluções,Deduções da Receita Bruta,-19500
+2022,Dez,Impostos de Venda (ICMS/ISS),Deduções da Receita Bruta,-235000
+2022,Dez,Custo Variável,Custo de Mercadoria Vendida (CMV),-185000
+2022,Dez,Custo Fixo,Custo de Mercadoria Vendida (CMV),-60000
+2022,Dez,Despesas Operacionais,Custos Operacionais,-30000
+2022,Dez,Despesas Administrativas,Custos Operacionais,-15000
+2022,Dez,Outras Despesas,Custos Operacionais,-800
+2022,Dez,Impostos sob o lucro,Impostos sob o lucro e participações,-145000
+2022,Dez,Participação,Impostos sob o lucro e participações,-72000
+2023,Jan,Receita com Produtos,Receita Bruta,1900000
+2023,Jan,Receita com Serviços,Receita Bruta,38000
+2023,Jan,Comissões,Deduções da Receita Bruta,-13300
+2023,Jan,Devoluções,Deduções da Receita Bruta,-20000
+2023,Jan,Impostos de Venda (ICMS/ISS),Deduções da Receita Bruta,-240000
+2023,Jan,Custo Variável,Custo de Mercadoria Vendida (CMV),-190000
+2023,Jan,Custo Fixo,Custo de Mercadoria Vendida (CMV),-65000
+2023,Jan,Despesas Operacionais,Custos Operacionais,-31000
+2023,Jan,Despesas Administrativas,Custos Operacionais,-15500
+2023,Jan,Outras Despesas,Custos Operacionais,-850
+2023,Jan,Impostos sob o lucro,Impostos sob o lucro e participações,-150000
+2023,Jan,Participação,Impostos sob o lucro e participações,-75000
+2023,Fev,Receita com Produtos,Receita Bruta,1850000
+2023,Fev,Receita com Serviços,Receita Bruta,37000
+2023,Fev,Comissões,Deduções da Receita Bruta,-12950
+2023,Fev,Devoluções,Deduções da Receita Bruta,-19500
+2023,Fev,Impostos de Venda (ICMS/ISS),Deduções da Receita Bruta,-235000
+2023,Fev,Custo Variável,Custo de Mercadoria Vendida (CMV),-185000
+2023,Fev,Custo Fixo,Custo de Mercadoria Vendida (CMV),-65000
+2023,Fev,Despesas Operacionais,Custos Operacionais,-30000
+2023,Fev,Despesas Administrativas,Custos Operacionais,-15000
+2023,Fev,Outras Despesas,Custos Operacionais,-850
+2023,Fev,Impostos sob o lucro,Impostos sob o lucro e participações,-145000
+2023,Fev,Participação,Impostos sob o lucro e participações,-72000
+2023,Mar,Receita com Produtos,Receita Bruta,2000000
+2023,Mar,Receita com Serviços,Receita Bruta,40000
+2023,Mar,Comissões,Deduções da Receita Bruta,-14000
+2023,Mar,Devoluções,Deduções da Receita Bruta,-21000
+2023,Mar,Impostos de Venda (ICMS/ISS),Deduções da Receita Bruta,-255000
+2023,Mar,Custo Variável,Custo de Mercadoria Vendida (CMV),-200000
+2023,Mar,Custo Fixo,Custo de Mercadoria Vendida (CMV),-65000
+2023,Mar,Despesas Operacionais,Custos Operacionais,-32000
+2023,Mar,Despesas Administrativas,Custos Operacionais,-16000
+2023,Mar,Outras Despesas,Custos Operacionais,-850
+2023,Mar,Impostos sob o lucro,Impostos sob o lucro e participações,-160000
+2023,Mar,Participação,Impostos sob o lucro e participações,-80000
+2023,Abr,Receita com Produtos,Receita Bruta,1950000
+2023,Abr,Receita com Serviços,Receita Bruta,39000
+2023,Abr,Comissões,Deduções da Receita Bruta,-13650
+2023,Abr,Devoluções,Deduções da Receita Bruta,-20500
+2023,Abr,Impostos de Venda (ICMS/ISS),Deduções da Receita Bruta,-248000
+2023,Abr,Custo Variável,Custo de Mercadoria Vendida (CMV),-195000
+2023,Abr,Custo Fixo,Custo de Mercadoria Vendida (CMV),-65000
+2023,Abr,Despesas Operacionais,Custos Operacionais,-31500
+2023,Abr,Despesas Administrativas,Custos Operacionais,-15700
+2023,Abr,Outras Despesas,Custos Operacionais,-850
+2023,Abr,Impostos sob o lucro,Impostos sob o lucro e participações,-154000
+2023,Abr,Participação,Impostos sob o lucro e participações,-77000
+2023,Mai,Receita com Produtos,Receita Bruta,2050000
+2023,Mai,Receita com Serviços,Receita Bruta,41000
+2023,Mai,Comissões,Deduções da Receita Bruta,-14350
+2023,Mai,Devoluções,Deduções da Receita Bruta,-21500
+2023,Mai,Impostos de Venda (ICMS/ISS),Deduções da Receita Bruta,-260000
+2023,Mai,Custo Variável,Custo de Mercadoria Vendida (CMV),-205000
+2023,Mai,Custo Fixo,Custo de Mercadoria Vendida (CMV),-65000
+2023,Mai,Despesas Operacionais,Custos Operacionais,-32500
+2023,Mai,Despesas Administrativas,Custos Operacionais,-16300
+2023,Mai,Outras Despesas,Custos Operacionais,-850
+2023,Mai,Impostos sob o lucro,Impostos sob o lucro e participações,-165000
+2023,Mai,Participação,Impostos sob o lucro e participações,-82000
+2023,Jun,Receita com Produtos,Receita Bruta,2100000
+2023,Jun,Receita com Serviços,Receita Bruta,42000
+2023,Jun,Comissões,Deduções da Receita Bruta,-14700
+2023,Jun,Devoluções,Deduções da Receita Bruta,-22000
+2023,Jun,Impostos de Venda (ICMS/ISS),Deduções da Receita Bruta,-265000
+2023,Jun,Custo Variável,Custo de Mercadoria Vendida (CMV),-210000
+2023,Jun,Custo Fixo,Custo de Mercadoria Vendida (CMV),-65000
+2023,Jun,Despesas Operacionais,Custos Operacionais,-33000
+2023,Jun,Despesas Administrativas,Custos Operacionais,-16600
+2023,Jun,Outras Despesas,Custos Operacionais,-850
+2023,Jun,Impostos sob o lucro,Impostos sob o lucro e participações,-170000
+2023,Jun,Participação,Impostos sob o lucro e participações,-84000
+2023,Jul,Receita com Produtos,Receita Bruta,2000000
+2023,Jul,Receita com Serviços,Receita Bruta,40000
+2023,Jul,Comissões,Deduções da Receita Bruta,-14000
+2023,Jul,Devoluções,Deduções da Receita Bruta,-21000
+2023,Jul,Impostos de Venda (ICMS/ISS),Deduções da Receita Bruta,-255000
+2023,Jul,Custo Variável,Custo de Mercadoria Vendida (CMV),-200000
+2023,Jul,Custo Fixo,Custo de Mercadoria Vendida (CMV),-65000
+2023,Jul,Despesas Operacionais,Custos Operacionais,-32000
+2023,Jul,Despesas Administrativas,Custos Operacionais,-16000
+2023,Jul,Outras Despesas,Custos Operacionais,-850
+2023,Jul,Impostos sob o lucro,Impostos sob o lucro e participações,-160000
+2023,Jul,Participação,Impostos sob o lucro e participações,-80000
+2023,Ago,Receita com Produtos,Receita Bruta,2150000
+2023,Ago,Receita com Serviços,Receita Bruta,43000
+2023,Ago,Comissões,Deduções da Receita Bruta,-15050
+2023,Ago,Devoluções,Deduções da Receita Bruta,-22500
+2023,Ago,Impostos de Venda (ICMS/ISS),Deduções da Receita Bruta,-270000
+2023,Ago,Custo Variável,Custo de Mercadoria Vendida (CMV),-215000
+2023,Ago,Custo Fixo,Custo de Mercadoria Vendida (CMV),-65000
+2023,Ago,Despesas Operacionais,Custos Operacionais,-33500
+2023,Ago,Despesas Administrativas,Custos Operacionais,-16900
+2023,Ago,Outras Despesas,Custos Operacionais,-850
+2023,Ago,Impostos sob o lucro,Impostos sob o lucro e participações,-175000
+2023,Ago,Participação,Impostos sob o lucro e participações,-86000
+2023,Set,Receita com Produtos,Receita Bruta,2100000
+2023,Set,Receita com Serviços,Receita Bruta,42000
+2023,Set,Comissões,Deduções da Receita Bruta,-14700
+2023,Set,Devoluções,Deduções da Receita Bruta,-22000
+2023,Set,Impostos de Venda (ICMS/ISS),Deduções da Receita Bruta,-265000
+2023,Set,Custo Variável,Custo de Mercadoria Vendida (CMV),-210000
+2023,Set,Custo Fixo,Custo de Mercadoria Vendida (CMV),-65000
+2023,Set,Despesas Operacionais,Custos Operacionais,-33000
+2023,Set,Despesas Administrativas,Custos Operacionais,-16600
+2023,Set,Outras Despesas,Custos Operacionais,-850
+2023,Set,Impostos sob o lucro,Impostos sob o lucro e participações,-170000
+2023,Set,Participação,Impostos sob o lucro e participações,-84000
+2023,Out,Receita com Produtos,Receita Bruta,2200000
+2023,Out,Receita com Serviços,Receita Bruta,44000
+2023,Out,Comissões,Deduções da Receita Bruta,-15400
+2023,Out,Devoluções,Deduções da Receita Bruta,-23000
+2023,Out,Impostos de Venda (ICMS/ISS),Deduções da Receita Bruta,-280000
+2023,Out,Custo Variável,Custo de Mercadoria Vendida (CMV),-220000
+2023,Out,Custo Fixo,Custo de Mercadoria Vendida (CMV),-65000
+2023,Out,Despesas Operacionais,Custos Operacionais,-34000
+2023,Out,Despesas Administrativas,Custos Operacionais,-17200
+2023,Out,Outras Despesas,Custos Operacionais,-850
+2023,Out,Impostos sob o lucro,Impostos sob o lucro e participações,-180000
+2023,Out,Participação,Impostos sob o lucro e participações,-88000
+2023,Nov,Receita com Produtos,Receita Bruta,2250000
+2023,Nov,Receita com Serviços,Receita Bruta,45000
+2023,Nov,Comissões,Deduções da Receita Bruta,-15750
+2023,Nov,Devoluções,Deduções da Receita Bruta,-23500
+2023,Nov,Impostos de Venda (ICMS/ISS),Deduções da Receita Bruta,-285000
+2023,Nov,Custo Variável,Custo de Mercadoria Vendida (CMV),-225000
+2023,Nov,Custo Fixo,Custo de Mercadoria Vendida (CMV),-65000
+2023,Nov,Despesas Operacionais,Custos Operacionais,-35000
+2023,Nov,Despesas Administrativas,Custos Operacionais,-17500
+2023,Nov,Outras Despesas,Custos Operacionais,-850
+2023,Nov,Impostos sob o lucro,Impostos sob o lucro e participações,-185000
+2023,Nov,Participação,Impostos sob o lucro e participações,-90000
+2023,Dez,Receita com Produtos,Receita Bruta,2400000
+2023,Dez,Receita com Serviços,Receita Bruta,48000
+2023,Dez,Comissões,Deduções da Receita Bruta,-16800
+2023,Dez,Devoluções,Deduções da Receita Bruta,-25000
+2023,Dez,Impostos de Venda (ICMS/ISS),Deduções da Receita Bruta,-300000
+2023,Dez,Custo Variável,Custo de Mercadoria Vendida (CMV),-240000
+2023,Dez,Custo Fixo,Custo de Mercadoria Vendida (CMV),-65000
+2023,Dez,Despesas Operacionais,Custos Operacionais,-36000
+2023,Dez,Despesas Administrativas,Custos Operacionais,-18000
+2023,Dez,Outras Despesas,Custos Operacionais,-850
+2023,Dez,Impostos sob o lucro,Impostos sob o lucro e participações,-195000
+2023,Dez,Participação,Impostos sob o lucro e participações,-95000
+2024,Jan,Receita com Produtos,Receita Bruta,2450000
+2024,Jan,Receita com Serviços,Receita Bruta,49000
+2024,Jan,Comissões,Deduções da Receita Bruta,-17150
+2024,Jan,Devoluções,Deduções da Receita Bruta,-25500
+2024,Jan,Impostos de Venda (ICMS/ISS),Deduções da Receita Bruta,-305000
+2024,Jan,Custo Variável,Custo de Mercadoria Vendida (CMV),-245000
+2024,Jan,Custo Fixo,Custo de Mercadoria Vendida (CMV),-70000
+2024,Jan,Despesas Operacionais,Custos Operacionais,-37000
+2024,Jan,Despesas Administrativas,Custos Operacionais,-18500
+2024,Jan,Outras Despesas,Custos Operacionais,-900
+2024,Jan,Impostos sob o lucro,Impostos sob o lucro e participações,-200000
+2024,Jan,Participação,Impostos sob o lucro e participações,-98000
+2024,Fev,Receita com Produtos,Receita Bruta,2350000
+2024,Fev,Receita com Serviços,Receita Bruta,47000
+2024,Fev,Comissões,Deduções da Receita Bruta,-16450
+2024,Fev,Devoluções,Deduções da Receita Bruta,-24500
+2024,Fev,Impostos de Venda (ICMS/ISS),Deduções da Receita Bruta,-295000
+2024,Fev,Custo Variável,Custo de Mercadoria Vendida (CMV),-235000
+2024,Fev,Custo Fixo,Custo de Mercadoria Vendida (CMV),-70000
+2024,Fev,Despesas Operacionais,Custos Operacionais,-35000
+2024,Fev,Despesas Administrativas,Custos Operacionais,-17500
+2024,Fev,Outras Despesas,Custos Operacionais,-900
+2024,Fev,Impostos sob o lucro,Impostos sob o lucro e participações,-190000
+2024,Fev,Participação,Impostos sob o lucro e participações,-95000
+2024,Mar,Receita com Produtos,Receita Bruta,2500000
+2024,Mar,Receita com Serviços,Receita Bruta,50000
+2024,Mar,Comissões,Deduções da Receita Bruta,-17500
+2024,Mar,Devoluções,Deduções da Receita Bruta,-26000
+2024,Mar,Impostos de Venda (ICMS/ISS),Deduções da Receita Bruta,-315000
+2024,Mar,Custo Variável,Custo de Mercadoria Vendida (CMV),-250000
+2024,Mar,Custo Fixo,Custo de Mercadoria Vendida (CMV),-70000
+2024,Mar,Despesas Operacionais,Custos Operacionais,-38000
+2024,Mar,Despesas Administrativas,Custos Operacionais,-19000
+2024,Mar,Outras Despesas,Custos Operacionais,-900
+2024,Mar,Impostos sob o lucro,Impostos sob o lucro e participações,-205000
+2024,Mar,Participação,Impostos sob o lucro e participações,-100000
+2024,Abr,Receita com Produtos,Receita Bruta,2400000
+2024,Abr,Receita com Serviços,Receita Bruta,48000
+2024,Abr,Comissões,Deduções da Receita Bruta,-16800
+2024,Abr,Devoluções,Deduções da Receita Bruta,-25000
+2024,Abr,Impostos de Venda (ICMS/ISS),Deduções da Receita Bruta,-300000
+2024,Abr,Custo Variável,Custo de Mercadoria Vendida (CMV),-240000
+2024,Abr,Custo Fixo,Custo de Mercadoria Vendida (CMV),-70000
+2024,Abr,Despesas Operacionais,Custos Operacionais,-36000
+2024,Abr,Despesas Administrativas,Custos Operacionais,-18000
+2024,Abr,Outras Despesas,Custos Operacionais,-900
+2024,Abr,Impostos sob o lucro,Impostos sob o lucro e participações,-195000
+2024,Abr,Participação,Impostos sob o lucro e participações,-97000
+2024,Mai,Receita com Produtos,Receita Bruta,2600000
+2024,Mai,Receita com Serviços,Receita Bruta,52000
+2024,Mai,Comissões,Deduções da Receita Bruta,-18200
+2024,Mai,Devoluções,Deduções da Receita Bruta,-27000
+2024,Mai,Impostos de Venda (ICMS/ISS),Deduções da Receita Bruta,-325000
+2024,Mai,Custo Variável,Custo de Mercadoria Vendida (CMV),-260000
+2024,Mai,Custo Fixo,Custo de Mercadoria Vendida (CMV),-70000
+2024,Mai,Despesas Operacionais,Custos Operacionais,-39000
+2024,Mai,Despesas Administrativas,Custos Operacionais,-19500
+2024,Mai,Outras Despesas,Custos Operacionais,-900
+2024,Mai,Impostos sob o lucro,Impostos sob o lucro e participações,-215000
+2024,Mai,Participação,Impostos sob o lucro e participações,-102000
+2024,Jun,Receita com Produtos,Receita Bruta,2700000
+2024,Jun,Receita com Serviços,Receita Bruta,54000
+2024,Jun,Comissões,Deduções da Receita Bruta,-18900
+2024,Jun,Devoluções,Deduções da Receita Bruta,-28000
+2024,Jun,Impostos de Venda (ICMS/ISS),Deduções da Receita Bruta,-335000
+2024,Jun,Custo Variável,Custo de Mercadoria Vendida (CMV),-270000
+2024,Jun,Custo Fixo,Custo de Mercadoria Vendida (CMV),-70000
+2024,Jun,Despesas Operacionais,Custos Operacionais,-40000
+2024,Jun,Despesas Administrativas,Custos Operacionais,-20000
+2024,Jun,Outras Despesas,Custos Operacionais,-900
+2024,Jun,Impostos sob o lucro,Impostos sob o lucro e participações,-225000
+2024,Jun,Participação,Impostos sob o lucro e participações,-105000
+2024,Jul,Receita com Produtos,Receita Bruta,2500000
+2024,Jul,Receita com Serviços,Receita Bruta,50000
+2024,Jul,Comissões,Deduções da Receita Bruta,-17500
+2024,Jul,Devoluções,Deduções da Receita Bruta,-26000
+2024,Jul,Impostos de Venda (ICMS/ISS),Deduções da Receita Bruta,-315000
+2024,Jul,Custo Variável,Custo de Mercadoria Vendida (CMV),-250000
+2024,Jul,Custo Fixo,Custo de Mercadoria Vendida (CMV),-70000
+2024,Jul,Despesas Operacionais,Custos Operacionais,-38000
+2024,Jul,Despesas Administrativas,Custos Operacionais,-19000
+2024,Jul,Outras Despesas,Custos Operacionais,-900
+2024,Jul,Impostos sob o lucro,Impostos sob o lucro e participações,-205000
+2024,Jul,Participação,Impostos sob o lucro e participações,-100000
+2024,Ago,Receita com Produtos,Receita Bruta,2800000
+2024,Ago,Receita com Serviços,Receita Bruta,56000
+2024,Ago,Comissões,Deduções da Receita Bruta,-19600
+2024,Ago,Devoluções,Deduções da Receita Bruta,-29000
+2024,Ago,Impostos de Venda (ICMS/ISS),Deduções da Receita Bruta,-345000
+2024,Ago,Custo Variável,Custo de Mercadoria Vendida (CMV),-280000
+2024,Ago,Custo Fixo,Custo de Mercadoria Vendida (CMV),-70000
+2024,Ago,Despesas Operacionais,Custos Operacionais,-41000
+2024,Ago,Despesas Administrativas,Custos Operacionais,-20500
+2024,Ago,Outras Despesas,Custos Operacionais,-900
+2024,Ago,Impostos sob o lucro,Impostos sob o lucro e participações,-235000
+2024,Ago,Participação,Impostos sob o lucro e participações,-108000
+2024,Set,Receita com Produtos,Receita Bruta,2700000
+2024,Set,Receita com Serviços,Receita Bruta,54000
+2024,Set,Comissões,Deduções da Receita Bruta,-18900
+2024,Set,Devoluções,Deduções da Receita Bruta,-28000
+2024,Set,Impostos de Venda (ICMS/ISS),Deduções da Receita Bruta,-335000
+2024,Set,Custo Variável,Custo de Mercadoria Vendida (CMV),-270000
+2024,Set,Custo Fixo,Custo de Mercadoria Vendida (CMV),-70000
+2024,Set,Despesas Operacionais,Custos Operacionais,-40000
+2024,Set,Despesas Administrativas,Custos Operacionais,-20000
+2024,Set,Outras Despesas,Custos Operacionais,-900
+2024,Set,Impostos sob o lucro,Impostos sob o lucro e participações,-225000
+2024,Set,Participação,Impostos sob o lucro e participações,-105000
+2024,Out,Receita com Produtos,Receita Bruta,2900000
+2024,Out,Receita com Serviços,Receita Bruta,58000
+2024,Out,Comissões,Deduções da Receita Bruta,-20300
+2024,Out,Devoluções,Deduções da Receita Bruta,-30000
+2024,Out,Impostos de Venda (ICMS/ISS),Deduções da Receita Bruta,-360000
+2024,Out,Custo Variável,Custo de Mercadoria Vendida (CMV),-290000
+2024,Out,Custo Fixo,Custo de Mercadoria Vendida (CMV),-70000
+2024,Out,Despesas Operacionais,Custos Operacionais,-42000
+2024,Out,Despesas Administrativas,Custos Operacionais,-21000
+2024,Out,Outras Despesas,Custos Operacionais,-900
+2024,Out,Impostos sob o lucro,Impostos sob o lucro e participações,-245000
+2024,Out,Participação,Impostos sob o lucro e participações,-110000
+2024,Nov,Receita com Produtos,Receita Bruta,3000000
+2024,Nov,Receita com Serviços,Receita Bruta,60000
+2024,Nov,Comissões,Deduções da Receita Bruta,-21000
+2024,Nov,Devoluções,Deduções da Receita Bruta,-31000
+2024,Nov,Impostos de Venda (ICMS/ISS),Deduções da Receita Bruta,-370000
+2024,Nov,Custo Variável,Custo de Mercadoria Vendida (CMV),-300000
+2024,Nov,Custo Fixo,Custo de Mercadoria Vendida (CMV),-70000
+2024,Nov,Despesas Operacionais,Custos Operacionais,-43000
+2024,Nov,Despesas Administrativas,Custos Operacionais,-21500
+2024,Nov,Outras Despesas,Custos Operacionais,-900
+2024,Nov,Impostos sob o lucro,Impostos sob o lucro e participações,-255000
+2024,Nov,Participação,Impostos sob o lucro e participações,-112000
+2024,Dez,Receita com Produtos,Receita Bruta,3200000
+2024,Dez,Receita com Serviços,Receita Bruta,64000
+2024,Dez,Comissões,Deduções da Receita Bruta,-22400
+2024,Dez,Devoluções,Deduções da Receita Bruta,-33000
+2024,Dez,Impostos de Venda (ICMS/ISS),Deduções da Receita Bruta,-390000
+2024,Dez,Custo Variável,Custo de Mercadoria Vendida (CMV),-320000
+2024,Dez,Custo Fixo,Custo de Mercadoria Vendida (CMV),-70000
+2024,Dez,Despesas Operacionais,Custos Operacionais,-45000
+2024,Dez,Despesas Administrativas,Custos Operacionais,-22500
+2024,Dez,Outras Despesas,Custos Operacionais,-900
+2024,Dez,Impostos sob o lucro,Impostos sob o lucro e participações,-270000
+2024,Dez,Participação,Impostos sob o lucro e participações,-118000
